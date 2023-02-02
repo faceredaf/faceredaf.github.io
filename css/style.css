@@ -1,9 +1,15 @@
 head {
     font-family: 'Roboto', sans-serif;
     background-color: black;
+    color: white;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     background-color: black;
+    color: white;
+}
+
+body .div {
+    color: white;
 }
