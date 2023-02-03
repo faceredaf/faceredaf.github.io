@@ -1,12 +1,12 @@
 head {
     font-family: 'Roboto', sans-serif;
     color: white;
-    background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+    background-image: linear-gradient(90deg, #020024 0%, #250979 35%, #000000 100%);
 }
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+    background-image: linear-gradient(90deg, #020024 0%, #250979 35%, #000000 100%);
     color: white;
 }
 
