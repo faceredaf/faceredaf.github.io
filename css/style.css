@@ -25,7 +25,8 @@ img {
   color: rgb(255, 255, 255);
   background: #111;
   cursor: pointer;
-  position: relative;
+  position: sticky;
+  top: 160px;
   z-index: 0;
   border-radius: 10px;
   user-select: none;
