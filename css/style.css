@@ -10,7 +10,6 @@ body {
     color: white;
 }
 
-div {
-    color: white;
+div .img {
     border: 1px solid white;
 }
